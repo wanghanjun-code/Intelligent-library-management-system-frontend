@@ -13,12 +13,13 @@ A Vue.js frontend application for an intelligent library management system.
 1. Clone the repository:
 ```bash
 git clone https://github.com/wanghanjun-code/Intelligent-library-management-system-frontend.git
+
 cd Intelligent-library-management-system-frontend
 ```
 
 2. Install dependencies:
 ```bash
-// Please ensure the Node version is 16. If you are using a Mac, you can switch to version 16 by running "nvm use 16" .
+// Please ensure the Node version is 16. If you are using a Mac, you can switch to version 16 by running   nvm use 16.
 
 npm install
 ```
